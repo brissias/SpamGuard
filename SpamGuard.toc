@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: SpamGuard
+## Notes: Detects repeated messages and whispers users
+## Author: You
+## Version: 1.0
+
+SpamGuard.lua
